@@ -6,21 +6,21 @@
 
 <br>
 
-<p><i>追风赶月莫停留<br>平芜尽处是春山</i></p>
-
-<p>
-  <a href="https://github.com/Qiuxile">GitHub</a>
-</p>
+<h2>
+  <font face="Songti SC, SimSun, STSong, serif"><b>追风赶月莫停留，平芜尽处是春山</b></font>
+</h2>
 
 </div>
 
 ---
 
-### currently
+### Currently
 
-正在构建 **[Nic](https://github.com/Qiuxile/Nic)** —— 一个仓库内的项目意图账本。记录你为什么做、做到哪、砍了什么，让项目不偏航。
+**[Nic](https://github.com/Qiuxile/Nic)**  
+一个仓库内的项目意图账本。记录你为什么做、做到哪、砍了什么，让项目不偏航。  
+`Go` · `Apache-2.0`
 
-### selected work
+### Selected Work
 
 **[Loomlet](https://github.com/Qiuxile/Loomlet)**  
 键盘流图形化脚本工作台。在无限画布上把代码框织成脚本，双手不离键盘完成切框、编辑与执行。  
@@ -34,25 +34,24 @@
 拖拽式零代码热键配置工具。通过可视化面板拖拽组合，无需写代码就能创建桌面自动化脚本。  
 `Python`
 
-### languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiuxile&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=6e6e6e&langs_count=6&hide=html,css,scss" alt="Top Languages">
-</p>
-
-### toolbox
-
-<p>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
-  <img alt="C%23" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white">
-</p>
-
 ---
 
 <div align="center">
-<sub>Less, but better. — Dieter Rams</sub>
+
+### Languages & Frameworks
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiuxile&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=e6edf3&text_bold=true&langs_count=8&card_width=320&hide=html,css,scss" alt="Top Languages" width="450">
+
+<br><br>
+
+<img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white">&nbsp;
+<img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white">&nbsp;
+<img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white">&nbsp;
+<img alt="WPF" src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white">&nbsp;
+<img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white">
+
+<br><br>
+
 </div>
+
+---
