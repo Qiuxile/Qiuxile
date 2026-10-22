@@ -20,8 +20,6 @@
 一个仓库内的项目意图账本。记录你为什么做、做到哪、砍了什么，让项目不偏航。  
 `Go` · `Apache-2.0`
 
-### Selected Work
-
 **[Loomlet](https://github.com/Qiuxile/Loomlet)**  
 键盘流图形化脚本工作台。在无限画布上把代码框织成脚本，双手不离键盘完成切框、编辑与执行。  
 `C++` · `Apache-2.0`
@@ -32,7 +30,7 @@
 
 **[HotKey](https://github.com/Qiuxile/HotKey)**  
 拖拽式零代码热键配置工具。通过可视化面板拖拽组合，无需写代码就能创建桌面自动化脚本。  
-`Python`
+`Python` · `MIT`
 
 ---
 
