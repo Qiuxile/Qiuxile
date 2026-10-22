@@ -2,7 +2,7 @@
 
 <h1>Surile</h1>
 
-<p><samp>TOOLS &nbsp;·&nbsp; AUTOMATION &nbsp;·&nbsp; INTERFACES</samp></p>
+<p><samp>SOFTWARE &nbsp;·&nbsp; HARDWARE &nbsp;·&nbsp; WEB</samp></p>
 
 <br>
 
