@@ -23,13 +23,22 @@
 ### selected work
 
 **[Loomlet](https://github.com/Qiuxile/Loomlet)**  
-键盘流图形化脚本工作台。在无限画布上把代码框织成脚本，双手不离键盘完成切框、编辑与执行。
+键盘流图形化脚本工作台。在无限画布上把代码框织成脚本，双手不离键盘完成切框、编辑与执行。  
+`C++` · `Apache-2.0`
 
 **[Tr](https://github.com/Qiuxile/Tr)**  
-终端里的轻量 AI 翻译工具。CLI + TUI 双形态，纯 Go，无桌面/Web 依赖。
+终端里的轻量 AI 翻译工具。CLI + TUI 双形态，纯 Go，无桌面/Web 依赖。  
+`Go` · `Apache-2.0`
 
 **[HotKey](https://github.com/Qiuxile/HotKey)**  
-拖拽式零代码热键配置工具。通过可视化面板拖拽组合，无需写代码就能创建桌面自动化脚本。
+拖拽式零代码热键配置工具。通过可视化面板拖拽组合，无需写代码就能创建桌面自动化脚本。  
+`Python`
+
+### languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiuxile&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&text_color=6e6e6e&langs_count=6&hide=html,css,scss" alt="Top Languages">
+</p>
 
 ### toolbox
 
