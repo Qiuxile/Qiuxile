@@ -22,7 +22,7 @@
 
 **[Loomlet](https://github.com/Qiuxile/Loomlet)**  
 键盘流图形化脚本工作台。在无限画布上把代码框织成脚本，双手不离键盘完成切框、编辑与执行。  
-`C++` · `Apache-2.0`
+`C++` · `Qt` · `Apache-2.0`
 
 **[Tr](https://github.com/Qiuxile/Tr)**  
 终端里的轻量 AI 翻译工具。CLI + TUI 双形态，纯 Go，无桌面/Web 依赖。  
