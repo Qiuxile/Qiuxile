@@ -26,7 +26,7 @@
 
 **[HKForge](https://github.com/Qiuxile/HKForge)**  
 HKForge 是一个面向 Windows 平台的、基于 AutoHotkey (AHK) 生态的现代化可视化图形脚本工具。  
-`C#` · `GPL-3.0`
+`C#` · `Go` · `GPL-3.0`
 
 **[Loomlet](https://github.com/Qiuxile/Loomlet)**  
 键盘流图形化脚本工作台。在无限画布上把代码框织成脚本，双手不离键盘完成切框、编辑与执行。  
