@@ -25,7 +25,7 @@
 `Go` · `Apache-2.0`
 
 **[HKForge](https://github.com/Qiuxile/HKForge)**  
-HKForge 是一个面向 Windows 平台的、基于 AutoHotkey (AHK) 生态的现代化可视化图形脚本工具。
+HKForge 是一个面向 Windows 平台的、基于 AutoHotkey (AHK) 生态的现代化可视化图形脚本工具。  
 `C#` · `GPL-3.0`
 
 **[Loomlet](https://github.com/Qiuxile/Loomlet)**  
